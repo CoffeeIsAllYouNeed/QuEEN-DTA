@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tensorflow
+pennylane
+optuna
+scipy
+rdkit
+lifelines
+biopython
+scikit-learn
