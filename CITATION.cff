@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QuEEN-DTA: Quantum-Extreme-Embedding-Network for Drug-Target Affinity"
+type: software
+authors:
+  - family-names: "More"
+    given-names: "Vrushal"
+    affiliation: "S.I.E.S Graduate School of Technology"
+  - family-names: "Kharche"
+    given-names: "Shubhangi"
+    affiliation: "S.I.E.S Graduate School of Technology"
+repository-code: "https://github.com/CoffeeIsAllYouNeed/QuEEN-DTA"
+license: MIT
+keywords:
+  - drug-target affinity
+  - quantum amplitude embedding
+  - deep learning
+  - drug discovery

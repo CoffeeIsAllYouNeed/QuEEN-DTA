@@ -1,4 +1,15 @@
+# Environments and caches
 .venv/
-results/
 __pycache__/
+*.pyc
 .ipynb_checkpoints/
+
+# Raw per-run outputs (predictions); the CSV summaries in results/ are kept
+results/*_fold*.npz
+results/*_fold*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

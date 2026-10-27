@@ -1,0 +1,3 @@
+dataset,runs,val_mse_mean,val_mse_std,test_mse_mean,test_mse_std,test_ci_mean,test_ci_std,test_r2m_mean,test_r2m_std,test_r2_mean,test_r2_std
+Davis,5,0.205,0.0051,0.2335,0.0048,0.8878,0.0027,0.6629,0.0246,0.7087,0.006
+KIBA,5,0.1543,0.0067,0.1551,0.0101,0.8827,0.0031,0.719,0.024,0.7717,0.0149
